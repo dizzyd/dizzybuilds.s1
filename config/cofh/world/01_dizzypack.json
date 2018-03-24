@@ -1,0 +1,424 @@
+{
+   "populate" : {
+      "copper-lead-gold-vein" : {
+         "distribution" : "gaussian",
+         "generator" : {
+            "sparse" : false,
+            "cluster-size" : 55,
+            "block" : [
+               {
+                  "name" : "thermalfoundation:ore",
+                  "desc" : "copper",
+                  "metadata" : 0,
+                  "weight" : 45
+               },
+               {
+                  "weight" : 45,
+                  "name" : "thermalfoundation:ore",
+                  "desc" : "lead",
+                  "metadata" : 3
+               },
+               {
+                  "weight" : 10,
+                  "name" : "gold_ore"
+               }
+            ],
+            "type" : "large-vein",
+            "material" : [
+               "minecraft:stone"
+            ]
+         },
+         "center-height" : 50,
+         "spread" : 5,
+         "biome" : {
+            "value" : [
+               {
+                  "type" : "dictionary",
+                  "entry" : "FOREST"
+               }
+            ],
+            "restriction" : "whitelist"
+         },
+         "chunk-chance" : 75,
+         "cluster-count" : 1,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         }
+      },
+      "diamond-vein" : {
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "cluster-count" : 1,
+         "chunk-chance" : 75,
+         "biome" : {
+            "value" : [
+               {
+                  "entry" : "JUNGLE",
+                  "type" : "dictionary"
+               }
+            ],
+            "restriction" : "whitelist"
+         },
+         "spread" : 5,
+         "center-height" : 20,
+         "generator" : {
+            "sparse" : false,
+            "cluster-size" : 75,
+            "type" : "large-vein",
+            "block" : "diamond_ore",
+            "material" : [
+               "minecraft:stone"
+            ]
+         },
+         "distribution" : "gaussian"
+      },
+      "lapis-vein" : {
+         "generator" : {
+            "type" : "large-vein",
+            "block" : "lapis_ore",
+            "material" : [
+               "minecraft:stone"
+            ],
+            "cluster-size" : 75,
+            "sparse" : false
+         },
+         "distribution" : "gaussian",
+         "spread" : 5,
+         "center-height" : 16,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "cluster-count" : 1,
+         "chunk-chance" : 75,
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "type" : "dictionary",
+                  "entry" : "MESA"
+               }
+            ]
+         }
+      },
+      "uranium-plate" : {
+         "distribution" : "gaussian",
+         "generator" : {
+            "radius" : 7,
+            "material" : [
+               "minecraft:stone"
+            ],
+            "height" : 1,
+            "type" : "plate",
+            "block" : [
+               {
+                  "weight" : 60,
+                  "metadata" : 5,
+                  "name" : "immersiveengineering:ore",
+                  "desc" : "uranium"
+               },
+               {
+                  "metadata" : 3,
+                  "name" : "nuclearcraft:ore",
+                  "desc" : "thorium",
+                  "weight" : 10
+               },
+               {
+                  "weight" : 10,
+                  "metadata" : 5,
+                  "desc" : "boron",
+                  "name" : "nuclearcraft:ore"
+               },
+               {
+                  "metadata" : 6,
+                  "desc" : "lithium",
+                  "name" : "nuclearcraft:ore",
+                  "weight" : 10
+               },
+               {
+                  "weight" : 10,
+                  "metadata" : 7,
+                  "desc" : "magnesium",
+                  "name" : "nuclearcraft:ore"
+               }
+            ]
+         },
+         "center-height" : 10,
+         "spread" : 5,
+         "chunk-chance" : 50,
+         "biome" : {
+            "value" : [
+               {
+                  "type" : "dictionary",
+                  "entry" : "OCEAN"
+               }
+            ],
+            "restriction" : "whitelist"
+         },
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "cluster-count" : 1
+      },
+      "coal-vein" : {
+         "chunk-chance" : 40,
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "entry" : "SWAMP",
+                  "type" : "dictionary"
+               }
+            ]
+         },
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "cluster-count" : 1,
+         "center-height" : 50,
+         "spread" : 2,
+         "distribution" : "gaussian",
+         "generator" : {
+            "type" : "large-vein",
+            "block" : "coal_ore",
+            "material" : [
+               "minecraft:stone",
+               "minecraft:water",
+               "minecraft:dirt"
+            ],
+            "cluster-size" : 100,
+            "sparse" : false
+         }
+      },
+      "silver-gold-vein" : {
+         "generator" : {
+            "block" : [
+               {
+                  "desc" : "silver",
+                  "name" : "thermalfoundation:ore",
+                  "metadata" : 2,
+                  "weight" : 60
+               },
+               {
+                  "name" : "gold_ore",
+                  "weight" : 40
+               }
+            ],
+            "type" : "large-vein",
+            "material" : [
+               "minecraft:stone"
+            ],
+            "cluster-size" : 40,
+            "sparse" : false
+         },
+         "distribution" : "gaussian",
+         "spread" : 5,
+         "center-height" : 20,
+         "cluster-count" : 1,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "biome" : {
+            "value" : [
+               {
+                  "entry" : "MOUNTAIN",
+                  "type" : "dictionary"
+               }
+            ],
+            "restriction" : "whitelist"
+         },
+         "chunk-chance" : 50
+      },
+      "bauxite-plate" : {
+         "distribution" : "gaussian",
+         "generator" : {
+            "radius" : 15,
+            "height" : 1,
+            "type" : "plate",
+            "block" : [
+               {
+                  "weight" : 40,
+                  "name" : "immersiveengineering:ore",
+                  "desc" : "aluminum",
+                  "metadata" : 1
+               },
+               {
+                  "weight" : 60,
+                  "name" : "gravel"
+               }
+            ],
+            "material" : [
+               "minecraft:stone"
+            ]
+         },
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "entry" : "SNOWY",
+                  "type" : "dictionary"
+               }
+            ]
+         },
+         "chunk-chance" : 50,
+         "cluster-count" : 1,
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "center-height" : 30,
+         "spread" : 5
+      },
+      "tin-granite" : {
+         "generator" : {
+            "material" : [
+               "minecraft:stone"
+            ],
+            "type" : "plate",
+            "height" : 1,
+            "block" : [
+               {
+                  "name" : "stone",
+                  "weight" : 40,
+                  "properties" : {
+                     "variant" : "granite"
+                  }
+               },
+               {
+                  "weight" : 60,
+                  "desc" : "tin",
+                  "name" : "thermalfoundation:ore",
+                  "metadata" : 1
+               }
+            ],
+            "radius" : 7
+         },
+         "distribution" : "gaussian",
+         "cluster-count" : 1,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "biome" : {
+            "value" : [
+               {
+                  "type" : "dictionary",
+                  "entry" : "PLAINS"
+               }
+            ],
+            "restriction" : "whitelist"
+         },
+         "chunk-chance" : 75,
+         "spread" : 5,
+         "center-height" : 40
+      },
+      "iron-nickel-gold-vein" : {
+         "distribution" : "gaussian",
+         "generator" : {
+            "sparse" : false,
+            "cluster-size" : 75,
+            "material" : [
+               "minecraft:stone"
+            ],
+            "type" : "large-vein",
+            "block" : [
+               {
+                  "weight" : 80,
+                  "name" : "iron_ore"
+               },
+               {
+                  "name" : "gold_ore",
+                  "weight" : 10
+               },
+               {
+                  "name" : "thermalfoundation:ore",
+                  "metadata" : 5,
+                  "weight" : 10
+               }
+            ]
+         },
+         "center-height" : 50,
+         "spread" : 5,
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "entry" : "PLAINS",
+                  "type" : "dictionary"
+               }
+            ]
+         },
+         "chunk-chance" : 75,
+         "cluster-count" : 1,
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         }
+      },
+      "redstone-vein" : {
+         "generator" : {
+            "cluster-size" : 75,
+            "sparse" : false,
+            "type" : "large-vein",
+            "block" : "redstone_ore",
+            "material" : [
+               "minecraft:stone"
+            ]
+         },
+         "distribution" : "gaussian",
+         "spread" : 5,
+         "center-height" : 20,
+         "cluster-count" : 1,
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "type" : "dictionary",
+                  "entry" : "SANDY"
+               }
+            ]
+         },
+         "chunk-chance" : 50
+      }
+   }
+}

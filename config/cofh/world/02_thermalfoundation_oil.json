@@ -1,0 +1,169 @@
+{
+   "populate" : {
+      "oil_shale" : {
+         "cluster-count" : 2,
+         "biome" : "all",
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "max-height" : 60,
+         "retrogen" : "true",
+         "in-village" : "false",
+         "chunk-chance" : 50,
+         "min-height" : 20,
+         "distribution" : "uniform",
+         "generator" : {
+            "type" : "geode",
+            "material" : [
+               "minecraft:dirt",
+               "minecraft:gravel",
+               "minecraft:stone"
+            ],
+            "block" : [
+               {
+                  "name" : "thermalfoundation:ore_fluid",
+                  "metadata" : 1,
+                  "weight" : 80
+               },
+               {
+                  "weight" : 20,
+                  "name" : "minecraft:gravel"
+               }
+            ],
+            "crust" : "minecraft:stone",
+            "hollow" : "true",
+            "filler" : "thermalfoundation:fluid_crude_oil"
+         }
+      },
+      "oil_shale_clathrate" : {
+         "biome" : {
+            "value" : [
+               {
+                  "entry" : "MESA",
+                  "type" : "dictionary"
+               },
+               {
+                  "type" : "dictionary",
+                  "entry" : "OCEAN"
+               },
+               {
+                  "type" : "dictionary",
+                  "entry" : "SNOWY"
+               },
+               {
+                  "entry" : "SWAMP",
+                  "type" : "dictionary"
+               }
+            ],
+            "restriction" : "whitelist"
+         },
+         "cluster-count" : 4,
+         "dimension" : "all",
+         "retrogen" : "true",
+         "max-height" : 80,
+         "chunk-chance" : 10,
+         "in-village" : "false",
+         "min-height" : 10,
+         "generator" : {
+            "cluster-size" : 16,
+            "material" : [
+               "minecraft:dirt",
+               "minecraft:gravel",
+               "minecraft:stone"
+            ],
+            "block" : [
+               {
+                  "name" : "thermalfoundation:ore_fluid",
+                  "metadata" : 1,
+                  "weight" : 80
+               },
+               {
+                  "name" : "minecraft:coal_ore",
+                  "weight" : 20
+               }
+            ]
+         },
+         "distribution" : "uniform"
+      },
+      "oil_sand_clathrate" : {
+         "min-height" : 10,
+         "in-village" : "false",
+         "chunk-chance" : 10,
+         "distribution" : "uniform",
+         "generator" : {
+            "material" : [
+               "minecraft:sand",
+               "minecraft:sandstone",
+               "minecraft:stone"
+            ],
+            "block" : "thermalfoundation:ore_fluid",
+            "cluster-size" : 16
+         },
+         "cluster-count" : 4,
+         "biome" : {
+            "value" : [
+               {
+                  "entry" : "SANDY",
+                  "type" : "dictionary"
+               }
+            ],
+            "restriction" : "whitelist"
+         },
+         "max-height" : 80,
+         "retrogen" : "true",
+         "dimension" : "all"
+      },
+      "oil_sand" : {
+         "distribution" : "uniform",
+         "generator" : {
+            "type" : "geode",
+            "material" : [
+               "minecraft:sand",
+               "minecraft:sandstone",
+               "minecraft:stone"
+            ],
+            "block" : [
+               {
+                  "name" : "thermalfoundation:ore_fluid",
+                  "metadata" : 0,
+                  "weight" : 80
+               },
+               {
+                  "name" : "minecraft:sand",
+                  "weight" : 20
+               }
+            ],
+            "filler" : "thermalfoundation:fluid_crude_oil",
+            "hollow" : "true",
+            "crust" : "minecraft:sandstone"
+         },
+         "chunk-chance" : 40,
+         "in-village" : "false",
+         "min-height" : 30,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "max-height" : 60,
+         "retrogen" : "true",
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "entry" : "SANDY",
+                  "type" : "dictionary"
+               }
+            ]
+         },
+         "cluster-count" : 3
+      }
+   },
+   "dependencies" : "thermalfoundation"
+}

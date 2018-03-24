@@ -1,0 +1,595 @@
+{
+ "extfiles": {
+  "FoamFix": "https://unascribed.com/foamfix/FoamFix-1.12.2-0.9.4-Anarchy.jar",
+  "Nutrition": "https://github.com/WesCook/Nutrition/releases/download/v3.0.0/Nutrition-1.12.2-3.0.0.jar"
+ },
+ "files": [
+  {
+   "desc": "CoFH Core",
+   "fileID": 2519297,
+   "filename": "CoFHCore-1.12.2-4.3.10.5-universal.jar",
+   "projectID": 69162,
+   "required": true
+  },
+  {
+   "desc": "CoFH World",
+   "fileID": 2513671,
+   "filename": "CoFHWorld-1.12.2-1.1.1.12-universal.jar",
+   "projectID": 271384,
+   "required": true
+  },
+  {
+   "desc": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
+   "fileID": 2448933,
+   "filename": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
+   "projectID": 270789,
+   "required": true
+  },
+  {
+   "desc": "Immersive Engineering",
+   "fileID": 2543992,
+   "projectID": 231951,
+   "required": true
+  },
+  {
+   "desc": "Immersive Tech",
+   "fileID": 2539196,
+   "filename": "immersivetech-1.12-1.3.6.jar",
+   "projectID": 274159,
+   "required": true
+  },
+  {
+   "desc": "Immersive Petroleum",
+   "fileID": 2543035,
+   "projectID": 268250,
+   "required": true
+  },
+  {
+   "desc": "Forestry",
+   "fileID": 2542318,
+   "filename": "forestry_1.12.2-5.8.0.256.jar",
+   "projectID": 59751,
+   "required": true
+  },
+  {
+   "desc": "Advanced Generators",
+   "fileID": 2516219,
+   "filename": "generators-0.9.20.12-mc1.12.2.jar",
+   "projectID": 223622,
+   "required": true
+  },
+  {
+   "desc": "Actually Additions",
+   "fileID": 2542819,
+   "projectID": 228404,
+   "required": true
+  },
+  {
+   "desc": "FastLeafDecay-v14.jar",
+   "fileID": 2463272,
+   "filename": "FastLeafDecay-v14.jar",
+   "projectID": 230976,
+   "required": true
+  },
+  {
+   "desc": "GraveStone Mod",
+   "fileID": 2524880,
+   "filename": "gravestone-1.10.1.jar",
+   "projectID": 238551,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Items (JEI)",
+   "fileID": 2536307,
+   "filename": "jei_1.12.2-4.8.5.159.jar",
+   "projectID": 238222,
+   "required": true
+  },
+  {
+   "desc": "CodeChicken Lib 1.8.+",
+   "fileID": 2540351,
+   "filename": "CodeChickenLib-1.12.2-3.1.6.339-universal.jar",
+   "projectID": 242818,
+   "required": true
+  },
+  {
+   "desc": "Thermal Foundation",
+   "fileID": 2518222,
+   "filename": "ThermalFoundation-1.12.2-2.3.10.6-universal.jar",
+   "projectID": 222880,
+   "required": true
+  },
+  {
+   "desc": "Thermal Expansion",
+   "fileID": 2520117,
+   "filename": "ThermalExpansion-1.12.2-5.3.10.15-universal.jar",
+   "projectID": 69163,
+   "required": true
+  },
+  {
+   "desc": "McJtyLib",
+   "fileID": 2543038,
+   "projectID": 233105,
+   "required": true
+  },
+  {
+   "desc": "RFTools",
+   "fileID": 2541774,
+   "filename": "rftools-1.12-7.31.jar",
+   "projectID": 224641,
+   "required": true
+  },
+  {
+   "desc": "Inventory Tweaks",
+   "fileID": 2514356,
+   "filename": "InventoryTweaks-1.64-dev.jar",
+   "projectID": 223094,
+   "required": true
+  },
+  {
+   "desc": "The One Probe",
+   "fileID": 2542295,
+   "filename": "theoneprobe-1.12-1.4.21.jar",
+   "projectID": 245211,
+   "required": true
+  },
+  {
+   "desc": "v1.4.8",
+   "fileID": 2483393,
+   "filename": "BetterFps-1.4.8.jar",
+   "projectID": 229876,
+   "required": true
+  },
+  {
+   "desc": "Storage Drawers",
+   "fileID": 2536306,
+   "filename": "StorageDrawers-1.12.2-5.3.5.jar",
+   "projectID": 223852,
+   "required": true
+  },
+  {
+   "desc": "Chameleon-1.12-4.1.3.jar",
+   "fileID": 2450900,
+   "filename": "Chameleon-1.12-4.1.3.jar",
+   "projectID": 230497,
+   "required": true
+  },
+  {
+   "desc": "Tinkers Construct",
+   "fileID": 2530200,
+   "filename": "TConstruct-1.12.2-2.9.1.65.jar",
+   "projectID": 74072,
+   "required": true
+  },
+  {
+   "desc": "Mantle-1.12-1.3.1.21.jar",
+   "fileID": 2474052,
+   "filename": "Mantle-1.12-1.3.1.21.jar",
+   "projectID": 74924,
+   "required": true
+  },
+  {
+   "desc": "Quark",
+   "fileID": 2544279,
+   "projectID": 243121,
+   "required": true
+  },
+  {
+   "desc": "AutoRegLib",
+   "fileID": 2544276,
+   "projectID": 250363,
+   "required": true
+  },
+  {
+   "desc": "OpenComputers",
+   "fileID": 2540146,
+   "filename": "OpenComputers-MC1.12.2-1.7.2.67.jar",
+   "projectID": 223008,
+   "required": true
+  },
+  {
+   "desc": "Grue-1.12-1.3.5.jar",
+   "fileID": 2450761,
+   "filename": "Grue-1.12-1.3.5.jar",
+   "projectID": 235133,
+   "required": true
+  },
+  {
+   "desc": "JEI Bees",
+   "fileID": 2490058,
+   "filename": "jeibees-0.9.0.5-mc1.12.2.jar",
+   "projectID": 248370,
+   "required": true
+  },
+  {
+   "desc": "BdLib",
+   "fileID": 2518031,
+   "filename": "bdlib-1.14.3.12-mc1.12.2.jar",
+   "projectID": 70496,
+   "required": true
+  },
+  {
+   "desc": "Persistent Bits 1.0.6a",
+   "fileID": 2442831,
+   "filename": "PersistentBits-1.12-1.0.6a.jar",
+   "projectID": 245681,
+   "required": true
+  },
+  {
+   "desc": "Refined Storage",
+   "fileID": 2538885,
+   "filename": "refinedstorage-1.5.32.jar",
+   "projectID": 243076,
+   "required": true
+  },
+  {
+   "desc": "Just Enough Resources (JER)",
+   "fileID": 2523823,
+   "filename": "JustEnoughResources-1.12.2-0.8.7.41.jar",
+   "projectID": 240630,
+   "required": true
+  },
+  {
+   "desc": "Chest Transporter",
+   "fileID": 2524058,
+   "filename": "ChestTransporter-1.12.2-2.8.8.jar",
+   "projectID": 78778,
+   "required": true
+  },
+  {
+   "desc": "BiblioCraft v2.4.3",
+   "fileID": 2456043,
+   "filename": "BiblioCraft[v2.4.3][MC1.12.0].jar",
+   "projectID": 228027,
+   "required": true
+  },
+  {
+   "desc": "Dark Utilities",
+   "fileID": 2542692,
+   "projectID": 242195,
+   "required": true
+  },
+  {
+   "desc": "Bookshelf",
+   "fileID": 2544026,
+   "projectID": 228525,
+   "required": true
+  },
+  {
+   "desc": "Not Enough Wands",
+   "fileID": 2523975,
+   "filename": "notenoughwands-1.12-1.6.1.jar",
+   "projectID": 235595,
+   "required": true
+  },
+  {
+   "desc": "Controlling",
+   "fileID": 2522248,
+   "filename": "Controlling-3.0.6.jar",
+   "projectID": 250398,
+   "required": true
+  },
+  {
+   "desc": "XNet",
+   "fileID": 2541781,
+   "filename": "xnet-1.12-1.6.8.jar",
+   "projectID": 260912,
+   "required": true
+  },
+  {
+   "clientOnly": true,
+   "desc": "ReAuth",
+   "fileID": 2491161,
+   "filename": "ReAuth-3.5.2.jar",
+   "projectID": 237701,
+   "required": true
+  },
+  {
+   "desc": "ShetiPhianCore",
+   "fileID": 2522314,
+   "filename": "shetiphiancore-1.12.0-3.5.6.jar",
+   "projectID": 71738,
+   "required": true
+  },
+  {
+   "desc": "Platforms",
+   "fileID": 2539161,
+   "filename": "platforms-1.12.0-1.4.5.jar",
+   "projectID": 244786,
+   "required": true
+  },
+  {
+   "desc": "usefulnullifiers-1.4.1.jar",
+   "fileID": 2444884,
+   "filename": "usefulnullifiers-1.4.1.jar",
+   "projectID": 247408,
+   "required": true
+  },
+  {
+   "desc": "Aroma1997Core",
+   "fileID": 2541341,
+   "filename": "Aroma1997Core-1.12.2-2.0.0.0.b148.jar",
+   "projectID": 223735,
+   "required": true
+  },
+  {
+   "desc": "AromaBackup",
+   "fileID": 2539620,
+   "filename": "AromaBackup-1.12.2-2.1.1.3.b94.jar",
+   "projectID": 225658,
+   "required": true
+  },
+  {
+   "desc": "UniDict",
+   "fileID": 2542099,
+   "filename": "UniDict-1.12.2-2.4c.jar",
+   "projectID": 244258,
+   "required": true
+  },
+  {
+   "desc": "WanionLib",
+   "fileID": 2534271,
+   "filename": "WanionLib-1.12.2-1.5.jar",
+   "projectID": 253043,
+   "required": true
+  },
+  {
+   "desc": "Astral Sorcery",
+   "fileID": 2523583,
+   "filename": "astralsorcery-1.12.2-1.8.5.jar",
+   "projectID": 241721,
+   "required": true
+  },
+  {
+   "desc": "Tinker I/O",
+   "fileID": 2537766,
+   "filename": "tinker_io-1.12.2-release-2.6.1.jar",
+   "projectID": 229503,
+   "required": true
+  },
+  {
+   "desc": "MTLib",
+   "fileID": 2539950,
+   "filename": "MTLib-3.0.4.jar",
+   "projectID": 253211,
+   "required": true
+  },
+  {
+   "desc": "Thermal Dynamics",
+   "fileID": 2518224,
+   "filename": "ThermalDynamics-1.12.2-2.3.10.4-universal.jar",
+   "projectID": 227443,
+   "required": true
+  },
+  {
+   "desc": "Rustic",
+   "fileID": 2540265,
+   "filename": "rustic-1.0.2.jar",
+   "projectID": 256141,
+   "required": true
+  },
+  {
+   "desc": "Chisel",
+   "fileID": 2535884,
+   "filename": "Chisel-MC1.12.2-0.2.0.31.jar",
+   "projectID": 235279,
+   "required": true
+  },
+  {
+   "desc": "ConnectedTexturesMod",
+   "fileID": 2519601,
+   "filename": "CTM-MC1.12-0.2.3.12.jar",
+   "projectID": 267602,
+   "required": true
+  },
+  {
+   "desc": "NuclearCraft",
+   "fileID": 2541792,
+   "filename": "NuclearCraft-2.9e--1.12.2.jar",
+   "projectID": 226254,
+   "required": true
+  },
+  {
+   "desc": "Signals",
+   "fileID": 2522706,
+   "filename": "Signals-1.12.2-1.2.2-5-universal.jar",
+   "projectID": 245824,
+   "required": true
+  },
+  {
+   "desc": "Creative Zone",
+   "fileID": 2502276,
+   "filename": "creativezone-1.0.2.jar",
+   "projectID": 282262,
+   "required": true
+  },
+  {
+   "desc": "Integrated Dynamics",
+   "fileID": 2543752,
+   "projectID": 236307,
+   "required": true
+  },
+  {
+   "desc": "Cyclops Core",
+   "fileID": 2540388,
+   "filename": "CyclopsCore-1.12.2-0.11.5.jar",
+   "projectID": 232758,
+   "required": true
+  },
+  {
+   "desc": "Common Capabilities",
+   "fileID": 2467504,
+   "filename": "CommonCapabilities-1.12-1.4.0.jar",
+   "projectID": 247007,
+   "required": true
+  },
+  {
+   "desc": "Integrated Tunnels",
+   "fileID": 2543770,
+   "projectID": 251389,
+   "required": true
+  },
+  {
+   "desc": "Sonar Core",
+   "fileID": 2536247,
+   "filename": "sonarcore-1.12.2-5.0.6.jar",
+   "projectID": 239418,
+   "required": true
+  },
+  {
+   "desc": "Calculator",
+   "fileID": 2536249,
+   "filename": "calculator-1.12.2-5.0.4.jar",
+   "projectID": 225104,
+   "required": true
+  },
+  {
+   "desc": "Waystones",
+   "fileID": 2543827,
+   "projectID": 245755,
+   "required": true
+  },
+  {
+   "desc": "Aether Legacy",
+   "fileID": 2520541,
+   "filename": "aether_legacy-1.12.2-v2.0.jar",
+   "projectID": 255308,
+   "required": true
+  },
+  {
+   "desc": "Spikes",
+   "fileID": 2456132,
+   "filename": "spikemod-1.12-2.1.0.jar",
+   "projectID": 251886,
+   "required": true
+  },
+  {
+   "desc": "Earthworks",
+   "fileID": 2486190,
+   "filename": "Earthworks-1.12-1.3.6.jar",
+   "projectID": 255427,
+   "required": true
+  },
+  {
+   "desc": "NotEnoughScaffold",
+   "fileID": 2536088,
+   "filename": "NotEnoughScaffold-1.12.2-1.7.jar",
+   "projectID": 285170,
+   "required": true
+  },
+  {
+   "desc": "Binnie's Mods",
+   "fileID": 2544062,
+   "projectID": 223525,
+   "required": true
+  },
+  {
+   "desc": "Better Compass",
+   "fileID": 2535758,
+   "filename": "bettercompass-1.12.2-1.3.0.jar",
+   "projectID": 286699,
+   "required": true
+  },
+  {
+   "desc": "The Erebus",
+   "fileID": 2541546,
+   "filename": "Erebus-1.0.22.jar",
+   "projectID": 220698,
+   "required": true
+  },
+  {
+   "desc": "stimmedcow : NoMoreRecipeConflict",
+   "fileID": 2529891,
+   "filename": "NoMoreRecipeConflict-0.10-1.12.2.jar",
+   "projectID": 238123,
+   "required": true
+  },
+  {
+   "desc": "Traverse",
+   "fileID": 2478137,
+   "filename": "Traverse-1.12.1-1.3.1.jar",
+   "projectID": 267769,
+   "required": true
+  },
+  {
+   "desc": "Antique Atlas",
+   "fileID": 2540177,
+   "filename": "antiqueatlas-1.12.2-4.4.7.jar",
+   "projectID": 227795,
+   "required": true
+  },
+  {
+   "desc": "Impractical Storage",
+   "fileID": 2538032,
+   "filename": "ImpracticalStorage-1.5.0-MC1.12.2.jar",
+   "projectID": 263456,
+   "required": true
+  },
+  {
+   "desc": "Insomniac",
+   "fileID": 2534883,
+   "filename": "insomniac-1.2.jar",
+   "projectID": 270193,
+   "required": true
+  },
+  {
+   "desc": "Alternating Flux",
+   "fileID": 2533436,
+   "filename": "alternatingflux-0.12-4.jar",
+   "projectID": 285135,
+   "required": true
+  },
+  {
+   "desc": "Automated Redstone",
+   "fileID": 2534741,
+   "filename": "AutomatedRedstone-1.12.2-6.1.2.jar",
+   "projectID": 229507,
+   "required": true
+  },
+  {
+   "desc": "Redstone Arsenal",
+   "fileID": 2518221,
+   "filename": "RedstoneArsenal-1.12.2-2.3.10.4-universal.jar",
+   "projectID": 70631,
+   "required": true
+  },
+  {
+   "desc": "CD4017BE Library",
+   "fileID": 2537009,
+   "filename": "CD4017BE_lib-1.12.2-6.2.1.jar",
+   "projectID": 229208,
+   "required": true
+  },
+  {
+   "desc": "Prospects",
+   "fileID": 2543718,
+   "projectID": 290289,
+   "required": true
+  },
+  {
+   "desc": "Cooking for Blockheads",
+   "fileID": 2543356,
+   "projectID": 231484,
+   "required": true
+  },
+  {
+   "desc": "Pam's HarvestCraft",
+   "fileID": 2542086,
+   "projectID": 221857,
+   "required": true
+  }
+ ],
+ "manifestType": "minecraftModpack",
+ "manifestVersion": 1,
+ "minecraft": {
+  "javaArgs": "-Xmx4G -XX:+UseG1GC",
+  "modLoaders": [
+   {
+    "id": "14.23.2.2632",
+    "primary": true
+   }
+  ],
+  "version": "1.12.2"
+ },
+ "name": "dizzybuilds.s1"
+}

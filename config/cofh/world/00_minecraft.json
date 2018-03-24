@@ -1,0 +1,239 @@
+{
+   "populate" : {
+      "gravel" : {
+         "retrogen" : false,
+         "distribution" : "uniform",
+         "biome" : "all",
+         "generator" : {
+            "cluster-size" : 33,
+            "block" : "gravel",
+            "material" : "minecraft:stone"
+         },
+         "cluster-count" : 8,
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "min-height" : 0,
+         "max-height" : 256
+      },
+      "emerald" : {
+         "distribution" : "uniform",
+         "retrogen" : false,
+         "generator" : {
+            "material" : "minecraft:stone",
+            "cluster-size" : 1,
+            "block" : {
+               "name" : "emerald_ore"
+            }
+         },
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "type" : "id",
+                  "entry" : [
+                     "extreme_hills",
+                     "smaller_extreme_hills",
+                     "extreme_hills_with_trees",
+                     "mutated_extreme_hills",
+                     "mutated_extreme_hills_with_trees"
+                  ]
+               }
+            ]
+         },
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "cluster-count" : {
+            "max" : 6,
+            "min" : 3
+         },
+         "max-height" : 28,
+         "min-height" : 4
+      },
+      "dirt" : {
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "cluster-count" : 10,
+         "retrogen" : false,
+         "distribution" : "uniform",
+         "generator" : {
+            "material" : "minecraft:stone",
+            "block" : "dirt",
+            "cluster-size" : 33
+         },
+         "max-height" : 256,
+         "min-height" : 0
+      },
+      "redstone" : {
+         "max-height" : 16,
+         "min-height" : 0,
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "cluster-count" : 1,
+         "generator" : {
+            "cluster-size" : 8,
+            "block" : "redstone_ore",
+            "material" : "minecraft:stone"
+         },
+         "biome" : "all",
+         "distribution" : "uniform",
+         "retrogen" : false
+      },
+      "andesite" : {
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "cluster-count" : 10,
+         "max-height" : 80,
+         "min-height" : 0,
+         "distribution" : "uniform",
+         "retrogen" : false,
+         "biome" : "all",
+         "generator" : {
+            "material" : "minecraft:stone",
+            "cluster-size" : 33,
+            "block" : {
+               "name" : "stone",
+               "properties" : {
+                  "variant" : "andesite"
+               }
+            }
+         }
+      },
+      "lapis" : {
+         "cluster-count" : 1,
+         "center-height" : 16,
+         "dimension" : {
+            "restriction" : "blacklist",
+            "value" : [
+               -1,
+               1
+            ]
+         },
+         "distribution" : "gaussian",
+         "retrogen" : false,
+         "generator" : {
+            "material" : "minecraft:stone",
+            "block" : "lapis_ore",
+            "cluster-size" : 7
+         },
+         "biome" : "all",
+         "spread" : 16
+      },
+      "diamond" : {
+         "biome" : "all",
+         "generator" : {
+            "cluster-size" : 8,
+            "block" : "diamond_ore",
+            "material" : "minecraft:stone"
+         },
+         "retrogen" : false,
+         "distribution" : "uniform",
+         "min-height" : 0,
+         "max-height" : 16,
+         "cluster-count" : 1,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         }
+      },
+      "granite" : {
+         "cluster-count" : 10,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "min-height" : 0,
+         "max-height" : 80,
+         "retrogen" : false,
+         "distribution" : "uniform",
+         "biome" : "all",
+         "generator" : {
+            "cluster-size" : 33,
+            "block" : {
+               "properties" : {
+                  "variant" : "granite"
+               },
+               "name" : "stone"
+            },
+            "material" : "minecraft:stone"
+         }
+      },
+      "diorite" : {
+         "min-height" : 0,
+         "max-height" : 80,
+         "cluster-count" : 10,
+         "dimension" : {
+            "value" : [
+               -1,
+               1
+            ],
+            "restriction" : "blacklist"
+         },
+         "biome" : "all",
+         "generator" : {
+            "material" : "minecraft:stone",
+            "cluster-size" : 33,
+            "block" : {
+               "properties" : {
+                  "variant" : "diorite"
+               },
+               "name" : "stone"
+            }
+         },
+         "retrogen" : false,
+         "distribution" : "uniform"
+      },
+      "quartz" : {
+         "max-height" : 118,
+         "min-height" : 10,
+         "dimension" : "all",
+         "cluster-count" : 16,
+         "generator" : {
+            "cluster-size" : 14,
+            "block" : "quartz_ore",
+            "material" : "minecraft:netherrack"
+         },
+         "biome" : {
+            "restriction" : "whitelist",
+            "value" : [
+               {
+                  "type" : "dictionary",
+                  "entry" : "NETHER"
+               }
+            ]
+         },
+         "retrogen" : false,
+         "distribution" : "uniform"
+      }
+   }
+}
