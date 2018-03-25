@@ -28,6 +28,7 @@
   {
    "desc": "Immersive Engineering",
    "fileID": 2543992,
+   "filename": "ImmersiveEngineering-0.12-80.jar",
    "projectID": 231951,
    "required": true
   },
@@ -41,6 +42,7 @@
   {
    "desc": "Immersive Petroleum",
    "fileID": 2543035,
+   "filename": "immersivepetroleum-1.12.2-1.1.8.jar",
    "projectID": 268250,
    "required": true
   },
@@ -61,6 +63,7 @@
   {
    "desc": "Actually Additions",
    "fileID": 2542819,
+   "filename": "ActuallyAdditions-1.12.2-r133.jar",
    "projectID": 228404,
    "required": true
   },
@@ -109,6 +112,7 @@
   {
    "desc": "McJtyLib",
    "fileID": 2543038,
+   "filename": "mcjtylib-1.12-2.6.7.jar",
    "projectID": 233105,
    "required": true
   },
@@ -171,12 +175,14 @@
   {
    "desc": "Quark",
    "fileID": 2544279,
+   "filename": "Quark-r1.4-123.jar",
    "projectID": 243121,
    "required": true
   },
   {
    "desc": "AutoRegLib",
    "fileID": 2544276,
+   "filename": "AutoRegLib-1.3-16.jar",
    "projectID": 250363,
    "required": true
   },
@@ -246,12 +252,14 @@
   {
    "desc": "Dark Utilities",
    "fileID": 2542692,
+   "filename": "DarkUtils-1.12.2-1.8.208.jar",
    "projectID": 242195,
    "required": true
   },
   {
    "desc": "Bookshelf",
    "fileID": 2544026,
+   "filename": "Bookshelf-1.12.2-2.3.538.jar",
    "projectID": 228525,
    "required": true
   },
@@ -406,6 +414,7 @@
   {
    "desc": "Integrated Dynamics",
    "fileID": 2543752,
+   "filename": "IntegratedDynamics-1.12.2-0.11.9.jar",
    "projectID": 236307,
    "required": true
   },
@@ -426,6 +435,7 @@
   {
    "desc": "Integrated Tunnels",
    "fileID": 2543770,
+   "filename": "IntegratedTunnels-1.12.2-1.5.5.jar",
    "projectID": 251389,
    "required": true
   },
@@ -446,6 +456,7 @@
   {
    "desc": "Waystones",
    "fileID": 2543827,
+   "filename": "Waystones_1.12.2-4.0.26.jar",
    "projectID": 245755,
    "required": true
   },
@@ -480,6 +491,7 @@
   {
    "desc": "Binnie's Mods",
    "fileID": 2544062,
+   "filename": "binnie-mods-1.12.2-2.5.0.139.jar",
    "projectID": 223525,
    "required": true
   },
@@ -563,18 +575,21 @@
   {
    "desc": "Prospects",
    "fileID": 2543718,
+   "filename": "prospects-1.0.1.jar",
    "projectID": 290289,
    "required": true
   },
   {
    "desc": "Cooking for Blockheads",
    "fileID": 2543356,
+   "filename": "CookingForBlockheads_1.12.2-6.3.26.jar",
    "projectID": 231484,
    "required": true
   },
   {
    "desc": "Pam's HarvestCraft",
    "fileID": 2542086,
+   "filename": "Pams-HarvestCraft-1.12.2r.jar",
    "projectID": 221857,
    "required": true
   }
