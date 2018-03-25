@@ -1,2 +1,8 @@
 mods
 world
+crash-reports
+logs
+servers.dat
+
+*.dylib
+*.so
