@@ -1,13 +1,12 @@
 {
  "extfiles": {
-  "FoamFix": "https://unascribed.com/foamfix/FoamFix-1.12.2-0.9.4-Anarchy.jar",
   "Nutrition": "https://github.com/WesCook/Nutrition/releases/download/v3.0.0/Nutrition-1.12.2-3.0.0.jar"
  },
  "files": [
   {
    "desc": "CoFH Core",
-   "fileID": 2519297,
-   "filename": "CoFHCore-1.12.2-4.3.10.5-universal.jar",
+   "fileID": 2556447,
+   "filename": "CoFHCore-1.12.2-4.4.1.12-universal.jar",
    "projectID": 69162,
    "required": true
   },
@@ -27,29 +26,29 @@
   },
   {
    "desc": "Immersive Engineering",
-   "fileID": 2543992,
-   "filename": "ImmersiveEngineering-0.12-80.jar",
+   "fileID": 2554650,
+   "filename": "ImmersiveEngineering-0.12-81.jar",
    "projectID": 231951,
    "required": true
   },
   {
    "desc": "Immersive Tech",
-   "fileID": 2539196,
-   "filename": "immersivetech-1.12-1.3.6.jar",
+   "fileID": 2550826,
+   "filename": "immersivetech-1.12-1.3.7-SevTech-Ages.jar",
    "projectID": 274159,
    "required": true
   },
   {
    "desc": "Immersive Petroleum",
-   "fileID": 2543035,
-   "filename": "immersivepetroleum-1.12.2-1.1.8.jar",
+   "fileID": 2544919,
+   "filename": "immersivepetroleum-1.12.2-1.1.9.jar",
    "projectID": 268250,
    "required": true
   },
   {
    "desc": "Forestry",
-   "fileID": 2542318,
-   "filename": "forestry_1.12.2-5.8.0.256.jar",
+   "fileID": 2557482,
+   "filename": "forestry_1.12.2-5.8.0.283.jar",
    "projectID": 59751,
    "required": true
   },
@@ -62,8 +61,8 @@
   },
   {
    "desc": "Actually Additions",
-   "fileID": 2542819,
-   "filename": "ActuallyAdditions-1.12.2-r133.jar",
+   "fileID": 2554046,
+   "filename": "ActuallyAdditions-1.12.2-r134.jar",
    "projectID": 228404,
    "required": true
   },
@@ -83,29 +82,29 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2536307,
-   "filename": "jei_1.12.2-4.8.5.159.jar",
+   "fileID": 2557347,
+   "filename": "jei_1.12.2-4.9.1.173.jar",
    "projectID": 238222,
    "required": true
   },
   {
    "desc": "CodeChicken Lib 1.8.+",
-   "fileID": 2540351,
-   "filename": "CodeChickenLib-1.12.2-3.1.6.339-universal.jar",
+   "fileID": 2555141,
+   "filename": "CodeChickenLib-1.12.2-3.1.7.340-universal.jar",
    "projectID": 242818,
    "required": true
   },
   {
    "desc": "Thermal Foundation",
-   "fileID": 2518222,
-   "filename": "ThermalFoundation-1.12.2-2.3.10.6-universal.jar",
+   "fileID": 2556452,
+   "filename": "ThermalFoundation-1.12.2-2.4.1.15-universal.jar",
    "projectID": 222880,
    "required": true
   },
   {
    "desc": "Thermal Expansion",
-   "fileID": 2520117,
-   "filename": "ThermalExpansion-1.12.2-5.3.10.15-universal.jar",
+   "fileID": 2556802,
+   "filename": "ThermalExpansion-1.12.2-5.4.2.27-universal.jar",
    "projectID": 69163,
    "required": true
   },
@@ -118,8 +117,8 @@
   },
   {
    "desc": "RFTools",
-   "fileID": 2541774,
-   "filename": "rftools-1.12-7.31.jar",
+   "fileID": 2549092,
+   "filename": "rftools-1.12-7.33.jar",
    "projectID": 224641,
    "required": true
   },
@@ -132,8 +131,8 @@
   },
   {
    "desc": "The One Probe",
-   "fileID": 2542295,
-   "filename": "theoneprobe-1.12-1.4.21.jar",
+   "fileID": 2549097,
+   "filename": "theoneprobe-1.12-1.4.22.jar",
    "projectID": 245211,
    "required": true
   },
@@ -146,8 +145,8 @@
   },
   {
    "desc": "Storage Drawers",
-   "fileID": 2536306,
-   "filename": "StorageDrawers-1.12.2-5.3.5.jar",
+   "fileID": 2545495,
+   "filename": "StorageDrawers-1.12.2-5.3.6.jar",
    "projectID": 223852,
    "required": true
   },
@@ -166,9 +165,9 @@
    "required": true
   },
   {
-   "desc": "Mantle-1.12-1.3.1.21.jar",
-   "fileID": 2474052,
-   "filename": "Mantle-1.12-1.3.1.21.jar",
+   "desc": "Mantle",
+   "fileID": 2550550,
+   "filename": "Mantle-1.12-1.3.2.24.jar",
    "projectID": 74924,
    "required": true
   },
@@ -181,8 +180,8 @@
   },
   {
    "desc": "AutoRegLib",
-   "fileID": 2544276,
-   "filename": "AutoRegLib-1.3-16.jar",
+   "fileID": 2557287,
+   "filename": "AutoRegLib-1.3-17.jar",
    "projectID": 250363,
    "required": true
   },
@@ -223,8 +222,8 @@
   },
   {
    "desc": "Refined Storage",
-   "fileID": 2538885,
-   "filename": "refinedstorage-1.5.32.jar",
+   "fileID": 2554172,
+   "filename": "refinedstorage-1.5.33.jar",
    "projectID": 243076,
    "required": true
   },
@@ -258,8 +257,8 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2544026,
-   "filename": "Bookshelf-1.12.2-2.3.538.jar",
+   "fileID": 2554421,
+   "filename": "Bookshelf-1.12.2-2.3.544.jar",
    "projectID": 228525,
    "required": true
   },
@@ -279,8 +278,8 @@
   },
   {
    "desc": "XNet",
-   "fileID": 2541781,
-   "filename": "xnet-1.12-1.6.8.jar",
+   "fileID": 2549094,
+   "filename": "xnet-1.12-1.6.9.jar",
    "projectID": 260912,
    "required": true
   },
@@ -315,22 +314,22 @@
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2541341,
-   "filename": "Aroma1997Core-1.12.2-2.0.0.0.b148.jar",
+   "fileID": 2554530,
+   "filename": "Aroma1997Core-1.12.2-2.0.0.0.b150.jar",
    "projectID": 223735,
    "required": true
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2539620,
-   "filename": "AromaBackup-1.12.2-2.1.1.3.b94.jar",
+   "fileID": 2551100,
+   "filename": "AromaBackup-1.12.2-2.1.1.3.b98.jar",
    "projectID": 225658,
    "required": true
   },
   {
    "desc": "UniDict",
-   "fileID": 2542099,
-   "filename": "UniDict-1.12.2-2.4c.jar",
+   "fileID": 2557350,
+   "filename": "UniDict-1.12.2-2.5b.jar",
    "projectID": 244258,
    "required": true
   },
@@ -343,8 +342,8 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2523583,
-   "filename": "astralsorcery-1.12.2-1.8.5.jar",
+   "fileID": 2556379,
+   "filename": "astralsorcery-1.12.2-1.8.9.jar",
    "projectID": 241721,
    "required": true
   },
@@ -364,15 +363,15 @@
   },
   {
    "desc": "Thermal Dynamics",
-   "fileID": 2518224,
-   "filename": "ThermalDynamics-1.12.2-2.3.10.4-universal.jar",
+   "fileID": 2556768,
+   "filename": "ThermalDynamics-1.12.2-2.4.1.10-universal.jar",
    "projectID": 227443,
    "required": true
   },
   {
    "desc": "Rustic",
-   "fileID": 2540265,
-   "filename": "rustic-1.0.2.jar",
+   "fileID": 2545348,
+   "filename": "rustic-1.0.3.jar",
    "projectID": 256141,
    "required": true
   },
@@ -392,15 +391,15 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2541792,
-   "filename": "NuclearCraft-2.9e--1.12.2.jar",
+   "fileID": 2556542,
+   "filename": "NuclearCraft-2.10m--1.12.2.jar",
    "projectID": 226254,
    "required": true
   },
   {
    "desc": "Signals",
-   "fileID": 2522706,
-   "filename": "Signals-1.12.2-1.2.2-5-universal.jar",
+   "fileID": 2556328,
+   "filename": "Signals-1.12.2-1.3.2-11-universal.jar",
    "projectID": 245824,
    "required": true
   },
@@ -413,8 +412,8 @@
   },
   {
    "desc": "Integrated Dynamics",
-   "fileID": 2543752,
-   "filename": "IntegratedDynamics-1.12.2-0.11.9.jar",
+   "fileID": 2557420,
+   "filename": "IntegratedDynamics-1.12.2-0.11.11.jar",
    "projectID": 236307,
    "required": true
   },
@@ -441,8 +440,8 @@
   },
   {
    "desc": "Sonar Core",
-   "fileID": 2536247,
-   "filename": "sonarcore-1.12.2-5.0.6.jar",
+   "fileID": 2555866,
+   "filename": "sonarcore-1.12.2-5.0.9.jar",
    "projectID": 239418,
    "required": true
   },
@@ -455,15 +454,15 @@
   },
   {
    "desc": "Waystones",
-   "fileID": 2543827,
-   "filename": "Waystones_1.12.2-4.0.26.jar",
+   "fileID": 2556387,
+   "filename": "Waystones_1.12.2-4.0.42.jar",
    "projectID": 245755,
    "required": true
   },
   {
    "desc": "Aether Legacy",
-   "fileID": 2520541,
-   "filename": "aether_legacy-1.12.2-v2.0.jar",
+   "fileID": 2553665,
+   "filename": "aether_legacy-1.12.2-v3.0.jar",
    "projectID": 255308,
    "required": true
   },
@@ -490,8 +489,8 @@
   },
   {
    "desc": "Binnie's Mods",
-   "fileID": 2544062,
-   "filename": "binnie-mods-1.12.2-2.5.0.139.jar",
+   "fileID": 2555953,
+   "filename": "binnie-mods-1.12.2-2.5.0.164.jar",
    "projectID": 223525,
    "required": true
   },
@@ -518,8 +517,8 @@
   },
   {
    "desc": "Traverse",
-   "fileID": 2478137,
-   "filename": "Traverse-1.12.1-1.3.1.jar",
+   "fileID": 2556922,
+   "filename": "Traverse-1.12.2-1.5.3-58.jar",
    "projectID": 267769,
    "required": true
   },
@@ -553,29 +552,29 @@
   },
   {
    "desc": "Automated Redstone",
-   "fileID": 2534741,
-   "filename": "AutomatedRedstone-1.12.2-6.1.2.jar",
+   "fileID": 2556327,
+   "filename": "AutomatedRedstone-1.12.2-6.1.3.jar",
    "projectID": 229507,
    "required": true
   },
   {
    "desc": "Redstone Arsenal",
-   "fileID": 2518221,
-   "filename": "RedstoneArsenal-1.12.2-2.3.10.4-universal.jar",
+   "fileID": 2556769,
+   "filename": "RedstoneArsenal-1.12.2-2.4.2.9-universal.jar",
    "projectID": 70631,
    "required": true
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2537009,
-   "filename": "CD4017BE_lib-1.12.2-6.2.1.jar",
+   "fileID": 2556324,
+   "filename": "CD4017BE_lib-1.12.2-6.2.3.jar",
    "projectID": 229208,
    "required": true
   },
   {
    "desc": "Prospects",
-   "fileID": 2543718,
-   "filename": "prospects-1.0.1.jar",
+   "fileID": 2545482,
+   "filename": "prospects-1.0.2.jar",
    "projectID": 290289,
    "required": true
   },
@@ -588,9 +587,44 @@
   },
   {
    "desc": "Pam's HarvestCraft",
-   "fileID": 2542086,
-   "filename": "Pams-HarvestCraft-1.12.2r.jar",
+   "fileID": 2545718,
+   "filename": "Pams-HarvestCraft-1.12.2t.jar",
    "projectID": 221857,
+   "required": true
+  },
+  {
+   "desc": "ViesCraft - Airships!",
+   "fileID": 2515257,
+   "filename": "ViesCraft-1.12.2-5.6.1.jar",
+   "projectID": 246795,
+   "required": true
+  },
+  {
+   "desc": "NetherEx",
+   "fileID": 2506216,
+   "filename": "NetherEx-1.12-2.1.14.15.jar",
+   "projectID": 248039,
+   "required": true
+  },
+  {
+   "desc": "FoamFix for Minecraft",
+   "fileID": 2555017,
+   "filename": "foamfix-0.9.9-1.12.2-anarchy.jar",
+   "projectID": 278494,
+   "required": true
+  },
+  {
+   "desc": "Baubles",
+   "fileID": 2518667,
+   "filename": "Baubles-1.12-1.5.2.jar",
+   "projectID": 227083,
+   "required": true
+  },
+  {
+   "desc": "Ender Crop",
+   "fileID": 2442432,
+   "filename": "endercrop-1.12-1.3.4.jar",
+   "projectID": 242269,
    "required": true
   }
  ],
@@ -600,7 +634,7 @@
   "javaArgs": "-Xmx4G -XX:+UseG1GC",
   "modLoaders": [
    {
-    "id": "14.23.2.2632",
+    "id": "14.23.3.2655",
     "primary": true
    }
   ],
