@@ -626,6 +626,41 @@
    "filename": "endercrop-1.12-1.3.4.jar",
    "projectID": 242269,
    "required": true
+  },
+  {
+   "desc": "ForgeEndertech",
+   "fileID": 2563697,
+   "filename": "ForgeEndertech-1.12.2-4.3.4.0-build.0110.jar",
+   "projectID": 244844,
+   "required": true
+  },
+  {
+   "desc": "Advanced Chimneys",
+   "fileID": 2563698,
+   "filename": "AdChimneys-1.12.2-3.2.2.0-build.0110.jar",
+   "projectID": 244830,
+   "required": true
+  },
+  {
+   "desc": "Charcoal Pit",
+   "fileID": 2564315,
+   "filename": "CharcoalPit-[1.12]-1.15.1.jar",
+   "projectID": 264111,
+   "required": true
+  },
+  {
+   "desc": "MalisisCore",
+   "fileID": 2526670,
+   "filename": "malisiscore-1.12.2-6.4.0.jar",
+   "projectID": 223896,
+   "required": true
+  },
+  {
+   "desc": "MalisisDoors",
+   "fileID": 2526674,
+   "filename": "malisisdoors-1.12.2-7.3.0.jar",
+   "projectID": 223891,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
