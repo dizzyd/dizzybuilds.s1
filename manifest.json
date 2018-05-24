@@ -26,15 +26,13 @@
   },
   {
    "desc": "Immersive Engineering",
-   "fileID": 2554650,
-   "filename": "ImmersiveEngineering-0.12-81.jar",
+   "fileID": 2559547,
    "projectID": 231951,
    "required": true
   },
   {
    "desc": "Immersive Tech",
-   "fileID": 2550826,
-   "filename": "immersivetech-1.12-1.3.7-SevTech-Ages.jar",
+   "fileID": 2564468,
    "projectID": 274159,
    "required": true
   },
@@ -47,8 +45,7 @@
   },
   {
    "desc": "Forestry",
-   "fileID": 2557482,
-   "filename": "forestry_1.12.2-5.8.0.283.jar",
+   "fileID": 2562681,
    "projectID": 59751,
    "required": true
   },
@@ -61,8 +58,7 @@
   },
   {
    "desc": "Actually Additions",
-   "fileID": 2554046,
-   "filename": "ActuallyAdditions-1.12.2-r134.jar",
+   "fileID": 2560486,
    "projectID": 228404,
    "required": true
   },
@@ -82,15 +78,13 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2557347,
-   "filename": "jei_1.12.2-4.9.1.173.jar",
+   "fileID": 2564631,
    "projectID": 238222,
    "required": true
   },
   {
    "desc": "CodeChicken Lib 1.8.+",
-   "fileID": 2555141,
-   "filename": "CodeChickenLib-1.12.2-3.1.7.340-universal.jar",
+   "fileID": 2558563,
    "projectID": 242818,
    "required": true
   },
@@ -159,8 +153,7 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2530200,
-   "filename": "TConstruct-1.12.2-2.9.1.65.jar",
+   "fileID": 2563033,
    "projectID": 74072,
    "required": true
   },
@@ -222,8 +215,7 @@
   },
   {
    "desc": "Refined Storage",
-   "fileID": 2554172,
-   "filename": "refinedstorage-1.5.33.jar",
+   "fileID": 2564334,
    "projectID": 243076,
    "required": true
   },
@@ -250,8 +242,7 @@
   },
   {
    "desc": "Dark Utilities",
-   "fileID": 2542692,
-   "filename": "DarkUtils-1.12.2-1.8.208.jar",
+   "fileID": 2563855,
    "projectID": 242195,
    "required": true
   },
@@ -286,8 +277,7 @@
   {
    "clientOnly": true,
    "desc": "ReAuth",
-   "fileID": 2491161,
-   "filename": "ReAuth-3.5.2.jar",
+   "fileID": 2560638,
    "projectID": 237701,
    "required": true
   },
@@ -321,15 +311,13 @@
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2551100,
-   "filename": "AromaBackup-1.12.2-2.1.1.3.b98.jar",
+   "fileID": 2563222,
    "projectID": 225658,
    "required": true
   },
   {
    "desc": "UniDict",
-   "fileID": 2557350,
-   "filename": "UniDict-1.12.2-2.5b.jar",
+   "fileID": 2563162,
    "projectID": 244258,
    "required": true
   },
@@ -342,8 +330,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2556379,
-   "filename": "astralsorcery-1.12.2-1.8.9.jar",
+   "fileID": 2559238,
    "projectID": 241721,
    "required": true
   },
@@ -370,8 +357,7 @@
   },
   {
    "desc": "Rustic",
-   "fileID": 2545348,
-   "filename": "rustic-1.0.3.jar",
+   "fileID": 2563385,
    "projectID": 256141,
    "required": true
   },
@@ -412,15 +398,13 @@
   },
   {
    "desc": "Integrated Dynamics",
-   "fileID": 2557420,
-   "filename": "IntegratedDynamics-1.12.2-0.11.11.jar",
+   "fileID": 2563910,
    "projectID": 236307,
    "required": true
   },
   {
    "desc": "Cyclops Core",
-   "fileID": 2540388,
-   "filename": "CyclopsCore-1.12.2-0.11.5.jar",
+   "fileID": 2563905,
    "projectID": 232758,
    "required": true
   },
@@ -433,8 +417,7 @@
   },
   {
    "desc": "Integrated Tunnels",
-   "fileID": 2543770,
-   "filename": "IntegratedTunnels-1.12.2-1.5.5.jar",
+   "fileID": 2563914,
    "projectID": 251389,
    "required": true
   },
@@ -454,8 +437,7 @@
   },
   {
    "desc": "Waystones",
-   "fileID": 2556387,
-   "filename": "Waystones_1.12.2-4.0.42.jar",
+   "fileID": 2559127,
    "projectID": 245755,
    "required": true
   },
@@ -489,8 +471,7 @@
   },
   {
    "desc": "Binnie's Mods",
-   "fileID": 2555953,
-   "filename": "binnie-mods-1.12.2-2.5.0.164.jar",
+   "fileID": 2559039,
    "projectID": 223525,
    "required": true
   },
@@ -524,8 +505,7 @@
   },
   {
    "desc": "Antique Atlas",
-   "fileID": 2540177,
-   "filename": "antiqueatlas-1.12.2-4.4.7.jar",
+   "fileID": 2562856,
    "projectID": 227795,
    "required": true
   },
@@ -566,15 +546,13 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2556324,
-   "filename": "CD4017BE_lib-1.12.2-6.2.3.jar",
+   "fileID": 2563705,
    "projectID": 229208,
    "required": true
   },
   {
    "desc": "Prospects",
-   "fileID": 2545482,
-   "filename": "prospects-1.0.2.jar",
+   "fileID": 2561630,
    "projectID": 290289,
    "required": true
   },
@@ -587,15 +565,13 @@
   },
   {
    "desc": "Pam's HarvestCraft",
-   "fileID": 2545718,
-   "filename": "Pams-HarvestCraft-1.12.2t.jar",
+   "fileID": 2560919,
    "projectID": 221857,
    "required": true
   },
   {
    "desc": "ViesCraft - Airships!",
-   "fileID": 2515257,
-   "filename": "ViesCraft-1.12.2-5.6.1.jar",
+   "fileID": 2563103,
    "projectID": 246795,
    "required": true
   },
@@ -608,8 +584,7 @@
   },
   {
    "desc": "FoamFix for Minecraft",
-   "fileID": 2555017,
-   "filename": "foamfix-0.9.9-1.12.2-anarchy.jar",
+   "fileID": 2559212,
    "projectID": 278494,
    "required": true
   },
@@ -622,8 +597,7 @@
   },
   {
    "desc": "Ender Crop",
-   "fileID": 2442432,
-   "filename": "endercrop-1.12-1.3.4.jar",
+   "fileID": 2557739,
    "projectID": 242269,
    "required": true
   },
