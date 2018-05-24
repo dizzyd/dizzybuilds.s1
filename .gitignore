@@ -6,3 +6,14 @@ servers.dat
 
 *.dylib
 *.so
+
+optionsof.txt
+optionsshaders.txt
+usercache.json
+usernamecache.json
+
+backups
+astralsorcery
+fonts
+resourcepacks
+saves
