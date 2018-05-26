@@ -195,7 +195,7 @@
             ]
          },
          "cluster-count" : 1,
-         "center-height" : 50,
+         "center-height" : 60,
          "spread" : 2,
          "distribution" : "gaussian",
          "generator" : {
@@ -203,7 +203,6 @@
             "block" : "coal_ore",
             "material" : [
                "minecraft:stone",
-               "minecraft:water",
                "minecraft:dirt"
             ],
             "cluster-size" : 100,
