@@ -642,13 +642,6 @@
    "required": true
   },
   {
-   "desc": "Charcoal Pit",
-   "fileID": 2564315,
-   "filename": "CharcoalPit-[1.12]-1.15.1.jar",
-   "projectID": 264111,
-   "required": true
-  },
-  {
    "desc": "MalisisCore",
    "fileID": 2526670,
    "filename": "malisiscore-1.12.2-6.4.0.jar",
@@ -660,6 +653,18 @@
    "fileID": 2526674,
    "filename": "malisisdoors-1.12.2-7.3.0.jar",
    "projectID": 223891,
+   "required": true
+  },
+  {
+   "desc": "Tropicraft",
+   "fileID": 2565947,
+   "projectID": 254794,
+   "required": true
+  },
+  {
+   "desc": "Career Bees",
+   "fileID": 2534481,
+   "projectID": 281791,
    "required": true
   }
  ],
