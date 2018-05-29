@@ -47,8 +47,8 @@
   },
   {
    "desc": "Forestry",
-   "fileID": 2562681,
-   "filename": "forestry_1.12.2-5.8.0.291.jar",
+   "fileID": 2567022,
+   "filename": "forestry_1.12.2-5.8.0.295.jar",
    "projectID": 59751,
    "required": true
   },
@@ -82,8 +82,8 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2564631,
-   "filename": "jei_1.12.2-4.9.1.190.jar",
+   "fileID": 2566347,
+   "filename": "jei_1.12.2-4.9.2.196.jar",
    "projectID": 238222,
    "required": true
   },
@@ -242,9 +242,9 @@
    "required": true
   },
   {
-   "desc": "BiblioCraft v2.4.3",
-   "fileID": 2456043,
-   "filename": "BiblioCraft[v2.4.3][MC1.12.0].jar",
+   "desc": "BiblioCraft",
+   "fileID": 2565070,
+   "filename": "BiblioCraft[v2.4.4][MC1.12.2].jar",
    "projectID": 228027,
    "required": true
   },
@@ -257,8 +257,8 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2554421,
-   "filename": "Bookshelf-1.12.2-2.3.544.jar",
+   "fileID": 2566265,
+   "filename": "Bookshelf-1.12.2-2.3.546.jar",
    "projectID": 228525,
    "required": true
   },
@@ -321,8 +321,8 @@
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2563222,
-   "filename": "AromaBackup-1.12.2-2.1.1.3.b100.jar",
+   "fileID": 2566781,
+   "filename": "AromaBackup-1.12.2-2.1.1.3.b101.jar",
    "projectID": 225658,
    "required": true
   },
@@ -447,8 +447,8 @@
   },
   {
    "desc": "Calculator",
-   "fileID": 2536249,
-   "filename": "calculator-1.12.2-5.0.4.jar",
+   "fileID": 2566055,
+   "filename": "calculator-1.12.2-5.0.5.jar",
    "projectID": 225104,
    "required": true
   },
@@ -499,13 +499,6 @@
    "fileID": 2535758,
    "filename": "bettercompass-1.12.2-1.3.0.jar",
    "projectID": 286699,
-   "required": true
-  },
-  {
-   "desc": "The Erebus",
-   "fileID": 2541546,
-   "filename": "Erebus-1.0.22.jar",
-   "projectID": 220698,
    "required": true
   },
   {
@@ -580,8 +573,8 @@
   },
   {
    "desc": "Cooking for Blockheads",
-   "fileID": 2543356,
-   "filename": "CookingForBlockheads_1.12.2-6.3.26.jar",
+   "fileID": 2565712,
+   "filename": "CookingForBlockheads_1.12.2-6.4.36.jar",
    "projectID": 231484,
    "required": true
   },
@@ -629,15 +622,15 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2563697,
-   "filename": "ForgeEndertech-1.12.2-4.3.4.0-build.0110.jar",
+   "fileID": 2566866,
+   "filename": "ForgeEndertech-1.12.2-4.3.6.1-build.0117.jar",
    "projectID": 244844,
    "required": true
   },
   {
    "desc": "Advanced Chimneys",
-   "fileID": 2563698,
-   "filename": "AdChimneys-1.12.2-3.2.2.0-build.0110.jar",
+   "fileID": 2566651,
+   "filename": "AdChimneys-1.12.2-3.3.1.0-build.0116.jar",
    "projectID": 244830,
    "required": true
   },
@@ -656,14 +649,9 @@
    "required": true
   },
   {
-   "desc": "Tropicraft",
-   "fileID": 2565947,
-   "projectID": 254794,
-   "required": true
-  },
-  {
    "desc": "Career Bees",
    "fileID": 2534481,
+   "filename": "careerbees-0.4.0.jar",
    "projectID": 281791,
    "required": true
   }
