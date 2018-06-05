@@ -5,22 +5,22 @@
  "files": [
   {
    "desc": "CoFH Core",
-   "fileID": 2556447,
-   "filename": "CoFHCore-1.12.2-4.4.1.12-universal.jar",
+   "fileID": 2568324,
+   "filename": "CoFHCore-1.12.2-4.5.2.19-universal.jar",
    "projectID": 69162,
    "required": true
   },
   {
    "desc": "CoFH World",
-   "fileID": 2513671,
-   "filename": "CoFHWorld-1.12.2-1.1.1.12-universal.jar",
+   "fileID": 2567263,
+   "filename": "CoFHWorld-1.12.2-1.2.0.5-universal.jar",
    "projectID": 271384,
    "required": true
   },
   {
-   "desc": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
-   "fileID": 2448933,
-   "filename": "RedstoneFlux-1.12-2.0.1.2-universal.jar",
+   "desc": "Redstone Flux",
+   "fileID": 2567260,
+   "filename": "RedstoneFlux-1.12-2.0.2.3-universal.jar",
    "projectID": 270789,
    "required": true
   },
@@ -33,8 +33,8 @@
   },
   {
    "desc": "Immersive Tech",
-   "fileID": 2564468,
-   "filename": "immersivetech-1.12-1.3.9.jar",
+   "fileID": 2568579,
+   "filename": "immersivetech-1.12-1.3.10.jar",
    "projectID": 274159,
    "required": true
   },
@@ -96,29 +96,29 @@
   },
   {
    "desc": "Thermal Foundation",
-   "fileID": 2556452,
-   "filename": "ThermalFoundation-1.12.2-2.4.1.15-universal.jar",
+   "fileID": 2567555,
+   "filename": "ThermalFoundation-1.12.2-2.5.0.19-universal.jar",
    "projectID": 222880,
    "required": true
   },
   {
    "desc": "Thermal Expansion",
-   "fileID": 2556802,
-   "filename": "ThermalExpansion-1.12.2-5.4.2.27-universal.jar",
+   "fileID": 2567265,
+   "filename": "ThermalExpansion-1.12.2-5.5.0.29-universal.jar",
    "projectID": 69163,
    "required": true
   },
   {
    "desc": "McJtyLib",
-   "fileID": 2543038,
-   "filename": "mcjtylib-1.12-2.6.7.jar",
+   "fileID": 2567259,
+   "filename": "mcjtylib-1.12-3.0.0-alpha.jar",
    "projectID": 233105,
    "required": true
   },
   {
    "desc": "RFTools",
-   "fileID": 2549092,
-   "filename": "rftools-1.12-7.33.jar",
+   "fileID": 2567314,
+   "filename": "rftools-1.12-7.50-alpha.jar",
    "projectID": 224641,
    "required": true
   },
@@ -131,8 +131,8 @@
   },
   {
    "desc": "The One Probe",
-   "fileID": 2549097,
-   "filename": "theoneprobe-1.12-1.4.22.jar",
+   "fileID": 2567329,
+   "filename": "theoneprobe-1.12-1.4.23-alpha.jar",
    "projectID": 245211,
    "required": true
   },
@@ -159,8 +159,8 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2563033,
-   "filename": "TConstruct-1.12.2-2.10.0.81.jar",
+   "fileID": 2568000,
+   "filename": "TConstruct-1.12.2-2.10.1.84.jar",
    "projectID": 74072,
    "required": true
   },
@@ -257,15 +257,15 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2566265,
-   "filename": "Bookshelf-1.12.2-2.3.546.jar",
+   "fileID": 2567708,
+   "filename": "Bookshelf-1.12.2-2.3.549.jar",
    "projectID": 228525,
    "required": true
   },
   {
    "desc": "Not Enough Wands",
-   "fileID": 2523975,
-   "filename": "notenoughwands-1.12-1.6.1.jar",
+   "fileID": 2567283,
+   "filename": "notenoughwands-1.12-1.7.0-alpha.jar",
    "projectID": 235595,
    "required": true
   },
@@ -278,8 +278,8 @@
   },
   {
    "desc": "XNet",
-   "fileID": 2549094,
-   "filename": "xnet-1.12-1.6.9.jar",
+   "fileID": 2567321,
+   "filename": "xnet-1.12-1.7.0-alpha.jar",
    "projectID": 260912,
    "required": true
   },
@@ -314,8 +314,8 @@
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2554530,
-   "filename": "Aroma1997Core-1.12.2-2.0.0.0.b150.jar",
+   "fileID": 2568916,
+   "filename": "Aroma1997Core-1.12.2-2.0.0.0.b154.jar",
    "projectID": 223735,
    "required": true
   },
@@ -356,15 +356,15 @@
   },
   {
    "desc": "MTLib",
-   "fileID": 2539950,
-   "filename": "MTLib-3.0.4.jar",
+   "fileID": 2567171,
+   "filename": "MTLib-3.0.5.jar",
    "projectID": 253211,
    "required": true
   },
   {
    "desc": "Thermal Dynamics",
-   "fileID": 2556768,
-   "filename": "ThermalDynamics-1.12.2-2.4.1.10-universal.jar",
+   "fileID": 2569008,
+   "filename": "ThermalDynamics-1.12.2-2.5.1.14-universal.jar",
    "projectID": 227443,
    "required": true
   },
@@ -384,15 +384,15 @@
   },
   {
    "desc": "ConnectedTexturesMod",
-   "fileID": 2519601,
-   "filename": "CTM-MC1.12-0.2.3.12.jar",
+   "fileID": 2568996,
+   "filename": "CTM-MC1.12-0.3.0.15.jar",
    "projectID": 267602,
    "required": true
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2556542,
-   "filename": "NuclearCraft-2.10m--1.12.2.jar",
+   "fileID": 2567999,
+   "filename": "NuclearCraft-2.10n--1.12.2.jar",
    "projectID": 226254,
    "required": true
   },
@@ -440,15 +440,15 @@
   },
   {
    "desc": "Sonar Core",
-   "fileID": 2555866,
-   "filename": "sonarcore-1.12.2-5.0.9.jar",
+   "fileID": 2569160,
+   "filename": "sonarcore-1.12.2-5.0.10.jar",
    "projectID": 239418,
    "required": true
   },
   {
    "desc": "Calculator",
-   "fileID": 2566055,
-   "filename": "calculator-1.12.2-5.0.5.jar",
+   "fileID": 2569163,
+   "filename": "calculator-1.12.2-5.0.6.jar",
    "projectID": 225104,
    "required": true
   },
@@ -552,8 +552,8 @@
   },
   {
    "desc": "Redstone Arsenal",
-   "fileID": 2556769,
-   "filename": "RedstoneArsenal-1.12.2-2.4.2.9-universal.jar",
+   "fileID": 2568564,
+   "filename": "RedstoneArsenal-1.12.2-2.5.1.13-universal.jar",
    "projectID": 70631,
    "required": true
   },
