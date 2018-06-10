@@ -530,13 +530,6 @@
    "required": true
   },
   {
-   "desc": "Insomniac",
-   "fileID": 2534883,
-   "filename": "insomniac-1.2.jar",
-   "projectID": 270193,
-   "required": true
-  },
-  {
    "desc": "Alternating Flux",
    "fileID": 2533436,
    "filename": "alternatingflux-0.12-4.jar",
