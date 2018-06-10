@@ -82,15 +82,13 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2566347,
-   "filename": "jei_1.12.2-4.9.2.196.jar",
+   "fileID": 2571131,
    "projectID": 238222,
    "required": true
   },
   {
    "desc": "CodeChicken Lib 1.8.+",
-   "fileID": 2558563,
-   "filename": "CodeChickenLib-1.12.2-3.1.8.341-universal.jar",
+   "fileID": 2571070,
    "projectID": 242818,
    "required": true
   },
@@ -110,15 +108,13 @@
   },
   {
    "desc": "McJtyLib",
-   "fileID": 2567259,
-   "filename": "mcjtylib-1.12-3.0.0-alpha.jar",
+   "fileID": 2569362,
    "projectID": 233105,
    "required": true
   },
   {
    "desc": "RFTools",
-   "fileID": 2567314,
-   "filename": "rftools-1.12-7.50-alpha.jar",
+   "fileID": 2569922,
    "projectID": 224641,
    "required": true
   },
@@ -131,8 +127,7 @@
   },
   {
    "desc": "The One Probe",
-   "fileID": 2567329,
-   "filename": "theoneprobe-1.12-1.4.23-alpha.jar",
+   "fileID": 2569399,
    "projectID": 245211,
    "required": true
   },
@@ -264,8 +259,7 @@
   },
   {
    "desc": "Not Enough Wands",
-   "fileID": 2567283,
-   "filename": "notenoughwands-1.12-1.7.0-alpha.jar",
+   "fileID": 2569375,
    "projectID": 235595,
    "required": true
   },
@@ -278,8 +272,7 @@
   },
   {
    "desc": "XNet",
-   "fileID": 2567321,
-   "filename": "xnet-1.12-1.7.0-alpha.jar",
+   "fileID": 2569392,
    "projectID": 260912,
    "required": true
   },
@@ -314,8 +307,7 @@
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2568916,
-   "filename": "Aroma1997Core-1.12.2-2.0.0.0.b154.jar",
+   "fileID": 2570729,
    "projectID": 223735,
    "required": true
   },
@@ -391,8 +383,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2567999,
-   "filename": "NuclearCraft-2.10n--1.12.2.jar",
+   "fileID": 2570095,
    "projectID": 226254,
    "required": true
   },
@@ -440,15 +431,13 @@
   },
   {
    "desc": "Sonar Core",
-   "fileID": 2569160,
-   "filename": "sonarcore-1.12.2-5.0.10.jar",
+   "fileID": 2570655,
    "projectID": 239418,
    "required": true
   },
   {
    "desc": "Calculator",
-   "fileID": 2569163,
-   "filename": "calculator-1.12.2-5.0.6.jar",
+   "fileID": 2570351,
    "projectID": 225104,
    "required": true
   },
@@ -510,8 +499,7 @@
   },
   {
    "desc": "Traverse",
-   "fileID": 2556922,
-   "filename": "Traverse-1.12.2-1.5.3-58.jar",
+   "fileID": 2571047,
    "projectID": 267769,
    "required": true
   },
@@ -566,8 +554,7 @@
   },
   {
    "desc": "Cooking for Blockheads",
-   "fileID": 2565712,
-   "filename": "CookingForBlockheads_1.12.2-6.4.36.jar",
+   "fileID": 2570676,
    "projectID": 231484,
    "required": true
   },
@@ -608,15 +595,13 @@
   },
   {
    "desc": "Ender Crop",
-   "fileID": 2557739,
-   "filename": "endercrop-1.12.2-1.4.1.jar",
+   "fileID": 2570903,
    "projectID": 242269,
    "required": true
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2566866,
-   "filename": "ForgeEndertech-1.12.2-4.3.6.1-build.0117.jar",
+   "fileID": 2570620,
    "projectID": 244844,
    "required": true
   },
